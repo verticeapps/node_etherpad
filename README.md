@@ -1,6 +1,10 @@
 # A really-real time collaborative word processor for the web
 ![alt text](http://i.imgur.com/zYrGkg3.gif "Etherpad in action on PrimaryPad")
 
+###To deploy your App 
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
+
+
 # About
 Etherpad is a really-real time collaborative editor maintained by the Etherpad Community.
 

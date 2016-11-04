@@ -1,8 +1,8 @@
 # A really-real time collaborative word processor for the web
 ![alt text](http://i.imgur.com/zYrGkg3.gif "Etherpad in action on PrimaryPad")
 
-###To deploy your App 
-[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
+###To deploy your App
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png)](https://www.megam.io)
 
 
 # About
@@ -11,7 +11,7 @@ Etherpad is a really-real time collaborative editor maintained by the Etherpad C
 Etherpad is written in JavaScript (99.9%) on both the server and client so it's easy for developers to maintain and add new features.  Because of this Etherpad has tons of customizations that you can leverage.
 
 Etherpad is designed to be easily embeddable and provides a [HTTP API](https://github.com/ether/etherpad-lite/wiki/HTTP-API)
-that allows your web application to manage pads, users and groups. It is recommended to use the [available client implementations](https://github.com/ether/etherpad-lite/wiki/HTTP-API-client-libraries) in order to interact with this API. 
+that allows your web application to manage pads, users and groups. It is recommended to use the [available client implementations](https://github.com/ether/etherpad-lite/wiki/HTTP-API-client-libraries) in order to interact with this API.
 
 There is also a [jQuery plugin](https://github.com/ether/etherpad-lite-jquery-plugin) that helps you to embed Pads into your website.
 
@@ -71,7 +71,7 @@ Additionally, you'll need [node.js](http://nodejs.org) installed, Ideally the la
 1. Move to a folder where you want to install Etherpad. Clone the git repository `git clone git://github.com/ether/etherpad-lite.git`
 2. Change into the new directory containing the cloned source code `cd etherpad-lite`
 
-Now, run `bin/run.sh` and open <http://127.0.0.1:9001> in your browser. 
+Now, run `bin/run.sh` and open <http://127.0.0.1:9001> in your browser.
 
 Update to the latest version with `git pull origin`. The next start with bin/run.sh will update the dependencies.
 

@@ -2,7 +2,7 @@
 ![alt text](http://i.imgur.com/zYrGkg3.gif "Etherpad in action on PrimaryPad")
 
 ###To deploy your App
-[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png)](https://www.megam.io)
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png)](http://docs.megam.io/overview/tour/)
 
 
 # About
